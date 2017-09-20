@@ -19,7 +19,3 @@ class Dog
     @bark 
 end
 
-fido = Dog.new
-fido.name = "Fido"
-
-fido.bark
